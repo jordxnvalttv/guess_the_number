@@ -1,6 +1,6 @@
 """# 🎮 Guess The Number Game
 
-A simple Python number guessing game built on Day 1 of my 28-day coding journey.
+A simple Python number guessing game.
 
 ## 🎯 How to Play
 1. Computer picks a random number between 1-100
@@ -19,9 +19,6 @@ A simple Python number guessing game built on Day 1 of my 28-day coding journey.
 ```bash
 python game.py
 ```
-
-## 📸 Screenshot
-[Add a screenshot of the game running]
 
 ## 🔮 Future Improvements
 - [ ] Add difficulty levels
