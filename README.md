@@ -22,10 +22,6 @@ A Python number guessing game where you try to guess a random number with helpfu
 python game.py
 ```
 
-## 📸 Screenshot
-
-[Add your screenshot here after uploading it]
-
 ## 💡 What I Learned
 
 - Working with Python's `random` module
